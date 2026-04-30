@@ -6,7 +6,7 @@ This is my home page! My name is Joshua Musselman and I am a student at [Cal Sta
 
 ## Computer Science Projects
 
-My GitHub page is: [github]https://github.com/JoshuaMBrandonC
+My GitHub page is: [https://github.com/JoshuaMBrandonC](https://github.com/JoshuaMBrandonC)
 
 ---
 
